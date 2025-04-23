@@ -1,4 +1,4 @@
-# ayur_leaf
+# Ayur Scan
 
 Indian Medicinal Leaf Detection App
 
